@@ -5,7 +5,7 @@
     :wave: Hi! I investivate and collaborate with different
     <br>OpenSource projects to learn new ways of working
     <br>and techniques for development.
-    <br>To me, doing this is a way to be able to spread a
+    <br>To me, this is one of the ways to be able to spread a
     <br>culture of collaboration, learning and fun.
     <br><br>:coffee: Wanna chat? :point_right: @ me on 
     <a href="https://www.linkedin.com/in/joseangelmunoz"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
