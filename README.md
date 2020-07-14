@@ -12,12 +12,20 @@
   </samp>
 </p>
 
-## Find me around the web 🌎:
-<p>
-  <samp>
-- Sharing updates on <a href="https://www.linkedin.com/in/joseangelmunoz/">LinkedIn</a> 💼
-<br>- Collaborating on <a href="https://github.com/imjoseangel/">GitHub</a> 🍄
-  </samp>
+## My GitHub Stats
+
+![My github stats](https://github-readme-stats.vercel.app/api?username=imjoseangel&show_icons=true)
+
+<hr>
+<p align="center">
+  <i>Find me around the web 🌎</i>
+  <p align="center">
+    <a href="https://twitter.com/imjoseangel" alt="Twitter"><img src="https://github.com/imjoseangel/imjoseangel/blob/master/images/twitter.png"></a>
+    <a href="https://www.linkedin.com/in/joseangelmunoz/" alt="Linkedin"><img src="https://github.com/imjoseangel/imjoseangel/blob/master/images/linkedin.png"></a>
+    <a href="https://github.com/imjoseangel" alt="GitHub"><img src="https://github.com/imjoseangel/imjoseangel/blob/master/images/github.png"></a>
+    <a href="https://dev.to/imjoseangel" alt="Dev"><img src="https://github.com/imjoseangel/imjoseangel/blob/master/images/dev.png"></a>
+    <a href="https://medium.com/@imjoseangel" alt="Medium"><img src="https://github.com/imjoseangel/imjoseangel/blob/master/images/medium.png"></a>
+  </p>
 </p>
 
 <!--
@@ -33,4 +41,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+## Find me around the web 🌎:
+<p>
+  <samp>
+- Sharing updates on <a href="https://www.linkedin.com/in/joseangelmunoz/">LinkedIn</a> 💼
+<br>- Collaborating on <a href="https://github.com/imjoseangel/">GitHub</a> 🍄
+  </samp>
+</p>
 -->
