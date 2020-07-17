@@ -1,4 +1,4 @@
-# Hi, I'm Jose Angel   🤙🏼👨🏻‍💻
+# Hi, I'm Jose Angel   🤟🏻👨🏻‍💻
 
 ![DevOps World 2020](images/dw.png)
 <p>
