@@ -1,6 +1,6 @@
 # Hi, I'm Jose Angel   🤟🏻👨🏻‍💻
 
-![DevOps World 2020](https://github.com/imjoseangel/imjoseangel/blob/master/images/dw.png)
+[![DevOps World 2020](https://github.com/imjoseangel/imjoseangel/blob/master/images/dw.png)](https://www.cloudbees.com/devops-world)
 <p>
 <a href="https://www.linkedin.com/in/joseangelmunoz"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 <a href="https://github.com/imjoseangel"><img src="https://img.shields.io/github/followers/imjoseangel.svg?label=GitHub&style=social" alt="GitHub"></a>
