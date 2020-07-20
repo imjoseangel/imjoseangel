@@ -51,4 +51,6 @@ Here are some ideas to get you started:
 <br>- Collaborating on <a href="https://github.com/imjoseangel/">GitHub</a> 🍄
   </samp>
 </p>
+
+![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=imjoseangel)
 -->
