@@ -27,6 +27,7 @@
     <a href="https://github.com/imjoseangel" alt="GitHub"><img src="https://github.com/imjoseangel/imjoseangel/blob/master/images/github.png"></a>
     <a href="https://dev.to/imjoseangel" alt="Dev"><img src="https://github.com/imjoseangel/imjoseangel/blob/master/images/dev.png"></a>
     <a href="https://medium.com/@imjoseangel" alt="Medium"><img src="https://github.com/imjoseangel/imjoseangel/blob/master/images/medium.png"></a>
+    <a href="https://stackoverflow.com/users/6477655/imjoseangel" alt="StackOverflow"><img src="https://github.com/imjoseangel/imjoseangel/blob/master/images/stackoverflow.png"></a>
   </p>
 </p>
 
