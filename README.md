@@ -22,11 +22,11 @@
 <p align="center">
   <i>Find me around the web 🌎</i>
   <p align="center">
-    <a href="https://twitter.com/imjoseangel" alt="Twitter"><img src="https://github.com/imjoseangel/imjoseangel/blob/master/images/twitter.svg height:32px"></a>
-    <a href="https://www.linkedin.com/in/joseangelmunoz/" alt="Linkedin"><img src="https://github.com/imjoseangel/imjoseangel/blob/master/images/linkedin.svg" height:32px></a>
-    <a href="https://github.com/imjoseangel" alt="GitHub"><img src="https://github.com/imjoseangel/imjoseangel/blob/master/images/github.svg" height:32px></a>
+    <a href="https://twitter.com/imjoseangel" alt="Twitter"><img src="https://github.com/imjoseangel/imjoseangel/blob/master/images/twitter.png"></a>
+    <a href="https://www.linkedin.com/in/joseangelmunoz/" alt="Linkedin"><img src="https://github.com/imjoseangel/imjoseangel/blob/master/images/linkedin.png"></a>
+    <a href="https://github.com/imjoseangel" alt="GitHub"><img src="https://github.com/imjoseangel/imjoseangel/blob/master/images/github.png"></a>
     <a href="https://dev.to/imjoseangel" alt="Dev"><img src="https://github.com/imjoseangel/imjoseangel/blob/master/images/dev.png"></a>
-    <a href="https://medium.com/@imjoseangel" alt="Medium"><img src="https://github.com/imjoseangel/imjoseangel/blob/master/images/medium.svg" height:32px></a>
+    <a href="https://medium.com/@imjoseangel" alt="Medium"><img src="https://github.com/imjoseangel/imjoseangel/blob/master/images/medium.png"></a>
   </p>
 </p>
 
