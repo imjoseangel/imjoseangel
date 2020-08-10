@@ -28,6 +28,7 @@
     <a href="https://dev.to/imjoseangel" alt="Dev"><img src="https://github.com/imjoseangel/imjoseangel/blob/master/images/dev.png"></a>
     <a href="https://medium.com/@imjoseangel" alt="Medium"><img src="https://github.com/imjoseangel/imjoseangel/blob/master/images/medium.png"></a>
     <a href="https://stackoverflow.com/cv/imjoseangel" alt="StackOverflow"><img src="https://github.com/imjoseangel/imjoseangel/blob/master/images/stackoverflow.png"></a>
+    <a href="http://twitch.tv/imjoseangel" alt="Twitch"><img src="https://github.com/imjoseangel/imjoseangel/blob/master/images/twitch.png"></a>
   </p>
 </p>
 
