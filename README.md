@@ -8,7 +8,7 @@
   <img src="https://github.githubassets.com/images/mona-whisper.gif" width="27px">
   <br><br>
   <samp>
-    :wave: I'm a CloudOps developer engineer who is passionate about making Open Source more accessible. I investigate and collaborate with different projects to learn new ways of working and new techniques for development. To me, this is one of the ways to be able to spread a culture of collaboration, learning and fun. Don't hesitate to contact me if you need mentoring or advice to collaborate with Open Source.
+    :wave: I'm a CloudOps developer engineer who is passionate about making Open Source more accessible. I love investigating and collaborating within different projects to learn new ways of working and new techniques for development. Being part of the Open Source community means collaboration, learning and fun. Don't hesitate to contact me if you need advice to start collaborating with Open Source.
   </samp>
 </p>
 
