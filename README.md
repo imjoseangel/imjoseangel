@@ -17,6 +17,10 @@
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=imjoseangel&show_icons=true)
 
+## My Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imjoseangel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <hr>
 <p align="center">
   <i>Find me around the web 🌎</i>
