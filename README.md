@@ -19,7 +19,7 @@
 
 ## My Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imjoseangel&hide=html,jupyter%20notebook&layout=compact&&theme=radical)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imjoseangel&hide=html,jupyter%20notebook&layout=compact&&theme=radical)
 
 <hr>
 <p align="center">
