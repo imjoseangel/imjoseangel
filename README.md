@@ -17,17 +17,13 @@
 
 ---
 <details>
-  <summary>:zap: My Stats:</summary>
+  <summary>:zap: My Stats</summary>
   
 <!--START_SECTION:waka-->
 
 ## My GitHub Stats
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=imjoseangel&&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
-## My Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imjoseangel&hide=html,jupyter%20notebook&layout=compact&&theme=radical)
+![My github stats](https://github-readme-stats.vercel.app/api?username=imjoseangel&&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imjoseangel&hide=html,jupyter%20notebook&layout=compact&&theme=radical)
   
 <!--END_SECTION:waka-->
 </details>
