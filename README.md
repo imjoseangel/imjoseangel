@@ -9,7 +9,7 @@
   <img src="https://github.githubassets.com/images/mona-whisper.gif" width="27px">
   <br><br>
   <samp>
-    :wave: I'm a Cloud Architect and SRE Developer Engineer who is passionate about making Open Source more accessible. I love investigating and collaborating within different projects to learn new ways of working and new techniques for development and automation. Don't hesitate to contact me to discuss about different technologies or a coffee ☕️
+    :wave: I'm a Cloud Architect and SRE Developer Engineer. Passionated about making Open Source more accessible. I love to investigate and collaborate with different projects to learn new ways of working and new techniques for development and automation. Don't hesitate to contact me to discuss about different technologies or for a coffee ☕️
   </samp>
 </p>
 
