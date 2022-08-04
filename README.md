@@ -1,4 +1,4 @@
-# Hi, I'm Jose Angel   🤟🏻👨🏻‍💻
+# Hi, I'm Jose Angel   👨🏻‍💻♥️
 ### 모르겠다
 <p>
 <a href="https://www.linkedin.com/in/joseangelmunoz"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
