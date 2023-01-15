@@ -4,8 +4,8 @@
 <p>
 <a href="https://www.linkedin.com/in/joseangelmunoz"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 <a href="https://github.com/imjoseangel"><img src="https://img.shields.io/github/followers/imjoseangel.svg?label=GitHub&style=social" alt="GitHub"></a>
-<a href="https://visitor-badge.glitch.me/badge?page_id=imjoseangel" alt="Visitors"></a>
 </p>
+![](https://visitor-badge.glitch.me/badge?page_id=imjoseangel)
 
 <p>
   <img src="https://github.githubassets.com/images/mona-whisper.gif" width="27px">
