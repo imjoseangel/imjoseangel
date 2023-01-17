@@ -7,8 +7,6 @@
 <a href="https://github.com/imjoseangel"><img src="https://img.shields.io/github/followers/imjoseangel.svg?label=GitHub&style=social" alt="GitHub"></a>
 </p>
 
-<body onload=d=Date.now,t=d(s=0)><p style="float:left" onclick="(e=d(++s)-t)<15e3?style.margin=e%300+' 0 0 '+e*7%300:alert(s)">X</p></body>
-
 <p>
   <img src="https://github.githubassets.com/images/mona-whisper.gif" width="27px">
   <br><br>
