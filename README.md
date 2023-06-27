@@ -19,7 +19,6 @@
 <p align="center">
   <i>Find me around the web 🌎</i>
   <p align="center">
-    <a href="https://twitter.com/imjoseangel" alt="Twitter"><img src="https://github.com/imjoseangel/imjoseangel/blob/master/images/twitter.png"></a>
     <a href="https://www.linkedin.com/in/joseangelmunoz/" alt="Linkedin"><img src="https://github.com/imjoseangel/imjoseangel/blob/master/images/linkedin.png"></a>
     <a href="https://github.com/imjoseangel" alt="GitHub"><img src="https://github.com/imjoseangel/imjoseangel/blob/master/images/github.png"></a>
     <a href="https://dev.to/imjoseangel" alt="Dev"><img src="https://github.com/imjoseangel/imjoseangel/blob/master/images/dev.png"></a>
