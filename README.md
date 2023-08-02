@@ -2,6 +2,7 @@
 
 ### 모르겠다
 ![](https://visitor-badge.glitch.me/badge?page_id=imjoseangel)
+![](https://visitor-badge.glitch.me/badge?page_id=imjoseangel&left_color=green&right_color=red)
 <p>
 <a href="https://www.linkedin.com/in/joseangelmunoz"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 <a href="https://github.com/imjoseangel"><img src="https://img.shields.io/github/followers/imjoseangel.svg?label=GitHub&style=social" alt="GitHub"></a>
