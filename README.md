@@ -22,7 +22,7 @@
     <a href="https://www.linkedin.com/in/joseangelmunoz/" alt="Linkedin"><img src="https://github.com/imjoseangel/imjoseangel/blob/master/images/linkedin.png"></a>
     <a href="https://github.com/imjoseangel" alt="GitHub"><img src="https://github.com/imjoseangel/imjoseangel/blob/master/images/github.png"></a>
     <a href="https://dev.to/imjoseangel" alt="Dev"><img src="https://github.com/imjoseangel/imjoseangel/blob/master/images/dev.png"></a>
-    <a href="https://stackoverflow.com/cv/imjoseangel" alt="StackOverflow"><img src="https://github.com/imjoseangel/imjoseangel/blob/master/images/stackoverflow.png"></a>
+    <a href="https://meta.stackoverflow.com/users/6477655/imjoseangel" alt="StackOverflow"><img src="https://github.com/imjoseangel/imjoseangel/blob/master/images/stackoverflow.png"></a>
   </p>
 </p>
 
